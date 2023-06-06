@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AutomationAnnihilator
+- 👋 Hi, I’m @AutomationPracticeNagarro
 - 👀 I’m interested in test automation
 - 🌱 I’m currently learning frameworks
 
